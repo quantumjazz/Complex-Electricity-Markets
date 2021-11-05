@@ -3,4 +3,4 @@
 These are the slides and data for the talk "Complex Electricity Markets".
 
 The rendered slides are here: 
-https://quantumjazz.github.io/Complex-Electricity-Markets/Complex-Electricity-Markets
+https://quantumjazz.github.io/Complex-Electricity-Markets/Complex_Electricity_Markets
